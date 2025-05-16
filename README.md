@@ -1,4 +1,4 @@
-<img src="amplexo.gif">
+<p align="center"> <img src="amplexo.gif">
 <!--
 **tiovene/tiovene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
