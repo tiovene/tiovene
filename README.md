@@ -12,13 +12,8 @@
     <strong>💡 Transformando curiosidade em aprendizado, aprendizado em soluções e soluções em conquistas.🏆</strong>
   </p>
 
-  <!-- Badges de Status / Redes -->
   <p align="center">
-    <a href="mailto:profvenelouis@gmail.com">
-      <img src="https://img.shields.io/badge/Contato-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <img src="https://img.shields.io/badge/Foco-Educação_%26_Competições-FFD700?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Educação" />
-    <img src="https://img.shields.io/badge/Local-Clube_Amplexo_Educação-8B0000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Amplexo" />
+    <img src="https://img.shields.io/badge/Foco-Educação_e_Conquistas-FFD700?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Educação" />
   </p>
 
 </div>
@@ -57,7 +52,7 @@ Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🌱-Clube_Amplexo_Educação-FF0000?style=for-the-badge" alt="Amplexo" />
+      <img src="https://img.shields.io/badge/🌱-Clube_Amplexo-FF0000?style=for-the-badge" alt="Amplexo" />
       <br/><br/>
       <h4><b>Clube Amplexo Educação</b></h4>
       <p align="left">
@@ -93,31 +88,29 @@ Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiovene&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&title_color=6366f1&icon_color=06b6d4" height="155" alt="Estatísticas do GitHub" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiovene&layout=compact&theme=tokyonight&hide_border=false&title_color=6366f1" height="155" alt="Linguagens mais usadas" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tiovene&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ### 💬 Vamos Conversar?
 
-Seja para agendar aulas particulares, mentoria para olimpíadas, trocar experiências sobre educação ou conhecer os projetos do **Clube Amplexo**, sinta-se à vontade para me mandar uma mensagem!
+Seja para agendar aulas particulares, mentoria para olimpíadas, trocar experiências sobre educação ou conhecer os projetos do **Clube Amplexo Educação**, sinta-se à vontade para me mandar uma mensagem!
 
 <div align="center">
+  <a href="https://wa.me/5585986794831" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/venelouis" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/venelouis" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
   <a href="mailto:profvenelouis@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/tiovene">
-    <img src="https://img.shields.io/badge/GitHub-tiovene-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
