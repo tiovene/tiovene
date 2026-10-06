@@ -52,7 +52,7 @@ Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🌱-Clube_Amplexo-FF0000?style=for-the-badge" alt="Amplexo" />
+      <img src="https://img.shields.io/badge/🌱-Clube_Amplexo-8B0000?style=for-the-badge" alt="Amplexo" />
       <br/><br/>
       <h4><b>Clube Amplexo Educação</b></h4>
       <p align="left">
@@ -93,25 +93,11 @@ Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
 Seja para agendar aulas particulares, mentoria para olimpíadas, trocar experiências sobre educação ou conhecer os projetos do **Clube Amplexo Educação**, sinta-se à vontade para me mandar uma mensagem!
 
 <div align="center">
-  <a href="https://wa.me/5585986794831" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/venelouis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/venelouis" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:profvenelouis@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tiovene">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://wa.me/5585986794831" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/venelouis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/venelouis" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:profvenelouis@gmail.com"><img src="https://img.shields.io/badge/E--mail-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/tiovene"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br/>
