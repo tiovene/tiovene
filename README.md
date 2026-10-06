@@ -35,7 +35,7 @@ Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
     <td width="33%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/🏆-Olimpíadas_Científicas-FFD700?style=for-the-badge" alt="Olimpíadas" />
-      <br/><br/>
+      <br/>
       <h4><b>Treinamento Olímpico</b></h4>
       <p align="left">
         Preparação intensiva para competições e olimpíadas de conhecimento e informática (ex: <b>OBI</b>). Foco em raciocínio lógico rápido, algoritmos, estruturas de dados e estratégias de prova.
@@ -44,7 +44,7 @@ Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
     <td width="33%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/💻-Aulas_Particulares-0ea5e9?style=for-the-badge" alt="Aulas" />
-      <br/><br/>
+      <br/>
       <h4><b>Aulas Personalizadas</b></h4>
       <p align="left">
         Acompanhamento 1-on-1 sob medida. Do primeiro <i>Hello World</i> à criação de projetos e programas práticos, respeitando o ritmo e despertando o interesse genuíno de cada aluno.
@@ -53,7 +53,7 @@ Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
     <td width="33%" align="center" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/🌱-Clube_Amplexo-8B0000?style=for-the-badge" alt="Amplexo" />
-      <br/><br/>
+      <br/>
       <h4><b>Clube Amplexo Educação</b></h4>
       <p align="left">
         Desenvolvimento de atividades, projetos e experiências educacionais enriquecedoras, promovendo tecnologia, criatividade e colaboração entre estudantes.
