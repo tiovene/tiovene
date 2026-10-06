@@ -3,13 +3,13 @@
   <!-- Imagem Principal / Animação Amplexo -->
   <img src="amplexo.gif" alt="Clube Amplexo & Tio Vené" width="30%" style="max-width: 680px; border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
 
-  <br/><br/>
+  <br/>
 
   <!-- Título Principal com Efeito Dinâmico -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=100&color=FF0000&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Venelouis!+%F0%9F%91%8B;Mas+pode+me+chamar+de+Tio+Ven%C3%A9+%E2%9C%A8;Professor+de+Tecnologia+%26+Mentor+%F0%9F%9A%80;Preparat%C3%B3rio+para+Olimp%C3%ADadas+%F0%9F%8F%85;Educador+no+Clube+Amplexo+%F0%9F%8C%9F" alt="Typing SVG" />
 
   <p align="center">
-    <strong>💡 Transformando curiosidade em aprendizado, aprendizado em soluções e soluções em conquistas.</strong>
+    <strong>💡 Transformando curiosidade em aprendizado, aprendizado em soluções e soluções em conquistas.🏆</strong>
   </p>
 
   <!-- Badges de Status / Redes -->
@@ -17,7 +17,7 @@
     <a href="mailto:profvenelouis@gmail.com">
       <img src="https://img.shields.io/badge/Contato-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <img src="https://img.shields.io/badge/Foco-Educação_%26_Competições-FF0000?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Educação" />
+    <img src="https://img.shields.io/badge/Foco-Educação_%26_Competições-FFD700?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Educação" />
     <img src="https://img.shields.io/badge/Local-Clube_Amplexo_Educação-FF0000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Amplexo" />
   </p>
 
@@ -27,11 +27,9 @@
 
 ### 👨‍🏫 Quem é o Tio Vené?
 
-> *"Ensinar tecnologia não é apenas mostrar comandos em uma tela; é ensinar a pensar, resolver problemas reais e ter autonomia para criar o futuro."*
+> *"Ensinar sobre tecnologia não é apenas mostrar comandos em uma tela; é ensinar a pensar, resolver problemas reais e ter autonomia para criar o futuro."*
 
-Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
-
-Sou apaixonado por educação tecnológica, pensamento computacional e formação de novas gerações de talentos. Trabalho ativamente no **Clube Amplexo Educação**, onde combinamos metodologia, paixão e tecnologia para inspirar estudantes.
+Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. Apaixonado por educação tecnológica, pensamento computacional e formação de novas gerações de talentos. Trabalho ativamente no **Clube Amplexo Educação**, onde combinamos metodologia, paixão e tecnologia para inspirar estudantes.
 
 ---
 
