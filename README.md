@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Contato-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <img src="https://img.shields.io/badge/Foco-Educação_%26_Competições-FFD700?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Educação" />
-    <img src="https://img.shields.io/badge/Local-Clube_Amplexo_Educação-FF0000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Amplexo" />
+    <img src="https://img.shields.io/badge/Local-Clube_Amplexo_Educação-8B0000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Amplexo" />
   </p>
 
 </div>
@@ -124,5 +124,5 @@ Seja para agendar aulas particulares, mentoria para olimpíadas, trocar experiê
 <br/>
 
 <div align="center">
-  <sub>Com amor <b>Tio Vené</b> 🚀</sub>
+  <sub>Com amor <b>Tio Vené</b> 💚</sub>
 </div>
