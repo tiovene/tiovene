@@ -1,24 +1,24 @@
 <div align="center">
 
   <!-- Imagem Principal / Animação Amplexo -->
-  <img src="amplexo.gif" alt="Clube Amplexo & Tio Vené" width="100%" style="max-width: 680px; border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
+  <img src="amplexo.gif" alt="Clube Amplexo & Tio Vené" width="30%" style="max-width: 680px; border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
 
   <br/><br/>
 
   <!-- Título Principal com Efeito Dinâmico -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Venelouis!+%F0%9F%91%8B;Mas+pode+me+chamar+de+Tio+Ven%C3%A9+%E2%9C%A8;Professor+de+Tecnologia+%26+Mentor+%F0%9F%9A%80;Preparat%C3%B3rio+para+Olimp%C3%ADadas+%F0%9F%8F%85;Educador+no+Clube+Amplexo+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=100&color=FF0000&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Venelouis!+%F0%9F%91%8B;Mas+pode+me+chamar+de+Tio+Ven%C3%A9+%E2%9C%A8;Professor+de+Tecnologia+%26+Mentor+%F0%9F%9A%80;Preparat%C3%B3rio+para+Olimp%C3%ADadas+%F0%9F%8F%85;Educador+no+Clube+Amplexo+%F0%9F%8C%9F" alt="Typing SVG" />
 
   <p align="center">
-    <strong>💡 Transformando curiosidade em código, raciocínio em solução e aprendizado em conquistas.</strong>
+    <strong>💡 Transformando curiosidade em aprendizado, aprendizado em soluções e soluções em conquistas.</strong>
   </p>
 
   <!-- Badges de Status / Redes -->
   <p align="center">
-    <a href="mailto:venelouistyago@gmail.com">
-      <img src="https://img.shields.io/badge/Contato-venelouistyago%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <a href="mailto:profvenelouis@gmail.com">
+      <img src="https://img.shields.io/badge/Contato-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <img src="https://img.shields.io/badge/Foco-Educação_%26_Olimpíadas-4F46E5?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Educação" />
-    <img src="https://img.shields.io/badge/Local-Clube_Amplexo-059669?style=for-the-badge&logo=bookstack&logoColor=white" alt="Amplexo" />
+    <img src="https://img.shields.io/badge/Foco-Educação_%26_Competições-FF0000?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Educação" />
+    <img src="https://img.shields.io/badge/Local-Clube_Amplexo_Educação-FF0000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Amplexo" />
   </p>
 
 </div>
@@ -29,7 +29,7 @@
 
 > *"Ensinar tecnologia não é apenas mostrar comandos em uma tela; é ensinar a pensar, resolver problemas reais e ter autonomia para criar o futuro."*
 
-Olá! Meu nome é **Venelouis**, mas no dia a dia da sala de aula e das mentorias sou conhecido com muito carinho como **Tio Vené**. 
+Olá! Meu nome é **Venelouis**, mas também sou conhecido como: **Tio Vené**. 
 
 Sou apaixonado por educação tecnológica, pensamento computacional e formação de novas gerações de talentos. Trabalho ativamente no **Clube Amplexo Educação**, onde combinamos metodologia, paixão e tecnologia para inspirar estudantes.
 
@@ -59,7 +59,7 @@ Sou apaixonado por educação tecnológica, pensamento computacional e formaçã
     </td>
     <td width="33%" align="center" valign="top">
       <br/>
-      <img src="https://img.shields.io/badge/🌱-Clube_Amplexo-10b981?style=for-the-badge" alt="Amplexo" />
+      <img src="https://img.shields.io/badge/🌱-Clube_Amplexo_Educação-FF0000?style=for-the-badge" alt="Amplexo" />
       <br/><br/>
       <h4><b>Clube Amplexo Educação</b></h4>
       <p align="left">
@@ -71,14 +71,14 @@ Sou apaixonado por educação tecnológica, pensamento computacional e formaçã
 
 ---
 
-### 🛠️ Áreas de Conhecimento & Tecnologias de Ensino
+### 🛠️ Algumas Tecnologias de Ensino
 
 <div align="center">
 
   <!-- Linguagens & Algoritmos -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="28"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" height="28"/>
+  <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" height="28"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28"/>
@@ -114,8 +114,8 @@ Sou apaixonado por educação tecnológica, pensamento computacional e formaçã
 Seja para agendar aulas particulares, mentoria para olimpíadas, trocar experiências sobre educação ou conhecer os projetos do **Clube Amplexo**, sinta-se à vontade para me mandar uma mensagem!
 
 <div align="center">
-  <a href="mailto:venelouistyago@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-venelouistyago%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:profvenelouis@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-profvenelouis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/tiovene">
@@ -126,5 +126,5 @@ Seja para agendar aulas particulares, mentoria para olimpíadas, trocar experiê
 <br/>
 
 <div align="center">
-  <sub>Construído com carinho e dedicação pelo <b>Tio Vené</b> 🚀</sub>
+  <sub>Com amor <b>Tio Vené</b> 🚀</sub>
 </div>
