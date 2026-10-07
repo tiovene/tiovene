@@ -1,9 +1,8 @@
 <div align="center">
-
+<p>
   <!-- Imagem Principal / Animação Amplexo -->
   <img src="amplexo.gif" alt="Clube Amplexo & Tio Vené" width="30%" style="max-width: 680px; border-radius: 16px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);" />
-
-  <br/>
+</p>
 
   <!-- Título Principal com Efeito Dinâmico -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=100&color=FF0000&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Venelouis!+%F0%9F%91%8B;Mas+pode+me+chamar+de+Tio+Ven%C3%A9+%E2%9C%A8;Professor+de+Tecnologia+%26+Mentor+%F0%9F%9A%80;Preparat%C3%B3rio+para+Olimp%C3%ADadas+%F0%9F%8F%85;Educador+no+Clube+Amplexo+%F0%9F%8C%9F" alt="Typing SVG" />
